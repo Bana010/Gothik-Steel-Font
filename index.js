@@ -1,0 +1,8 @@
+<html>
+<head>
+  <title>Fonts</title>
+</head>
+<body>
+  <h1>Discord Fonts</h1>
+</body>
+</html>
